@@ -165,7 +165,7 @@ b-container(tag='main')
     v-model='currentPage',
     :per-page='pagination.perPage',
     :total-rows='pagination.totalCars',
-    @change="getCars(currentPage, search)",
+    @change="getCars($event, search)",
   )
 
   .cars(v-if='cars.length > 0')
@@ -187,7 +187,7 @@ b-container(tag='main')
     v-model='currentPage',
     :per-page='pagination.perPage',
     :total-rows='pagination.totalCars',
-     @change="getCars(currentPage, search)",
+     @change="getCars($event, search)",
   )
 
   cars-modal(
