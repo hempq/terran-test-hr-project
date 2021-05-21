@@ -44,7 +44,6 @@ export default class Cars extends Vue {
   visible = false;
 
   async created() {
-    console.log(this.cars);
     
     if(this.userSearchName !==''){
       this.search={
