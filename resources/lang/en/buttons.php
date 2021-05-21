@@ -17,5 +17,6 @@ return [
     'sending' => 'Sending',
     'update' => 'Update',
     'search' => 'Search',
+    'cars' => 'Show cars'
 
 ];
