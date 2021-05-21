@@ -12,6 +12,8 @@ Normal user
     E-mail: normal@example.com
     Password: normal
 
+Rename the .env.example file to .env, and fill it with your local info, then:
+
 ### With Docker
 
 Run:
@@ -25,7 +27,6 @@ After it starts, just on the first time, run on another terminal:
 The application will be available on http://localhost:8000 and the phpMyAdmin on http://localhost:8081
 
 ### Common way
-Rename the .env.example file to .env, and fill it with your local info, then:
 
 Install PHP and JavaScript dependencies:
 
