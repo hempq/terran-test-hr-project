@@ -1,6 +1,6 @@
 # Terran test project
 
-You can check it live [on this website](http://64.225.100.127/), with the credentials:
+You can check it live [on this website](http://159.89.25.68/), with the credentials:
 
 Admin user
 
