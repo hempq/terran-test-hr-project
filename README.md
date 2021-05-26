@@ -1,7 +1,5 @@
 # Terran test project
 
-You can check it live [on this website](http://159.89.25.68/), with the credentials:
-
 Admin user
 
     E-mail: admin@example.com
