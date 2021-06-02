@@ -1,5 +1,7 @@
 # Terran test project
 
+Terran test project with Laravel 8 Vue.js 2.6, Bootstrap 4, TypeScript, Sass and Pug.
+
 Admin user
 
     E-mail: admin@example.com
